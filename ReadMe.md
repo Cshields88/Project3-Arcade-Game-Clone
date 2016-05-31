@@ -4,7 +4,7 @@
 
 An HTML5 Canvas powered video game, developed using the best practices in Object Oriented JavaScript
 
-[Live Site](http://cshields88.github.io/Udacity-FEND-Online-Resume)
+[Live Site](http://cshields88.github.io/Udacity-FEND-Arcade-Game-Clone)
 
 ![Arcade Game Screenshot](frogger.png)
 
