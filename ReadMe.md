@@ -1,19 +1,25 @@
-Hello & Welcome!
+# Arcade Game Clone
+###### Udacity Description
 
-How To Download The Game:
---Download The Zip Folder or Fork the Arcade Game Clone Repository on GitHub.
---Unzip the folder, and open the index.html file in your browser of
-  choice.
---Thanks For Playing & Enjoy The Game!!
 
-Directions:
+An HTML5 Canvas powered video game, developed using the best practices in Object Oriented JavaScript
+
+[Live Site](http://cshields88.github.io/Udacity-FEND-Online-Resume)
+
+![Arcade Game Screenshot](frogger.png)
+
+
+
+##### Directions:
 --Use the arrow keys to move your player.
 --Make it across the game board and save the princess to win!
 --If you touch a bug you lose and are automatically reset to
   the starting position.
 
 
-Resources Used:
+
+
+###### Resources Used:
 
 --https://www.youtube.com/watch?v=knB1uzSdvJA
 --https://www.youtube.com/watch?v=NZHzgXFKfuY
